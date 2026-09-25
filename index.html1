@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>chandrashekar - Projects</title>
+</head>
+<body>
+    <h1>chandrashekar</h1>
+
+    <h2>Projects</h2>
+
+    <h3>Self-Driving Robotaxi Prototype</h3>
+    <p>
+        A miniature autonomous vehicle prototype using Raspberry Pi,
+        ESP32, cameras, sensors, computer vision, and AI.
+    </p>
+
+    <h3>Lane Follower Robot</h3>
+    <p>
+        A robotics project focused on autonomous lane following using
+        sensors, embedded systems, and control logic.
+    </p>
+</body>
+</html>
